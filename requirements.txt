@@ -1,0 +1,6 @@
+streamlit==1.38.0
+transformers==4.44.2
+torch>=2.0
+pandas==2.2.2
+matplotlib==3.9.2
+fpdf==1.7.2
